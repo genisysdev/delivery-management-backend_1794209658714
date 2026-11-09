@@ -1,0 +1,552 @@
+[
+  {
+    "skillName": "Angular",
+    "skillDesc": "A platform for building mobile and desktop web applications.",
+    "skillCatg": 1
+  },
+  {
+    "skillName": "TypeScript",
+    "skillDesc": "A strict syntactical superset of JavaScript that adds static typing.",
+    "skillCatg": 1
+  },
+  {
+    "skillName": "NodeJS",
+    "skillDesc": "A JavaScript runtime built on Chrome's V8 JavaScript engine.",
+    "skillCatg": 2
+  },
+  {
+    "skillName": "Jest",
+    "skillDesc": "A delightful JavaScript testing framework with a focus on simplicity.",
+    "skillCatg": 4
+  },
+  {
+    "skillName": ".NET",
+    "skillDesc": "A free, cross-platform, open source developer platform for building many different types of applications.",
+    "skillCatg": 10
+  },
+  {
+    "skillName": ".NET Core",
+    "skillDesc": "A cross-platform version of .NET for building websites, services, and console apps.",
+    "skillCatg": 10
+  },
+  {
+    "skillName": "AWS",
+    "skillDesc": "A subsidiary of Amazon providing on-demand cloud computing platforms and APIs.",
+    "skillCatg": 9
+  },
+  {
+    "skillName": "Manual Testing",
+    "skillDesc": "The process of manually testing software for defects.",
+    "skillCatg": 3
+  },
+  {
+    "skillName": "Python",
+    "skillDesc": "A high-level, interpreted, and general-purpose programming language.",
+    "skillCatg": 10
+  },
+  {
+    "skillName": "React",
+    "skillDesc": "A JavaScript library for building user interfaces.",
+    "skillCatg": 1
+  },
+  {
+    "skillName": "HTML",
+    "skillDesc": "The standard markup language for creating web pages.",
+    "skillCatg": 1
+  },
+  {
+    "skillName": "JavaScript",
+    "skillDesc": "A programming language commonly used in web development.",
+    "skillCatg": 1
+  },
+  {
+    "skillName": "Cascading Style Sheets (CSS)",
+    "skillDesc": "A style sheet language used for describing the presentation of a document written in HTML.",
+    "skillCatg": 1
+  },
+  {
+    "skillName": "Bootstrap",
+    "skillDesc": "A free and open-source CSS framework directed at responsive, mobile-first front-end web development.",
+    "skillCatg": 1
+  },
+  {
+    "skillName": "React JS",
+    "skillDesc": "A JavaScript library for building user interfaces.",
+    "skillCatg": 1
+  },
+  {
+    "skillName": "Wordpress",
+    "skillDesc": "A free and open-source content management system written in PHP and paired with a MySQL or MariaDB database.",
+    "skillCatg": 1
+  },
+  {
+    "skillName": "XML",
+    "skillDesc": "A markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.",
+    "skillCatg": 1
+  },
+  {
+    "skillName": "PHP",
+    "skillDesc": "A popular general-purpose scripting language that is especially suited to web development.",
+    "skillCatg": 1
+  },
+  {
+    "skillName": "Scrum Master",
+    "skillDesc": "A facilitator for an agile development team.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Project Management",
+    "skillDesc": "The application of processes, methods, skills, knowledge and experience to achieve specific project objectives.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Laravel Framework",
+    "skillDesc": "A PHP framework for web artisans.",
+    "skillCatg": 1
+  },
+  {
+    "skillName": "MySQL",
+    "skillDesc": "An open-source relational database management system.",
+    "skillCatg": 12
+  },
+  {
+    "skillName": "MongoDB",
+    "skillDesc": "A source-available cross-platform document-oriented database program.",
+    "skillCatg": 12
+  },
+  {
+    "skillName": "Amazon DynamoDB",
+    "skillDesc": "A fully managed proprietary NoSQL database service.",
+    "skillCatg": 12
+  },
+  {
+    "skillName": "SQLite",
+    "skillDesc": "A C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.",
+    "skillCatg": 12
+  },
+  {
+    "skillName": "Microsoft SQL Server",
+    "skillDesc": "A relational database management system developed by Microsoft.",
+    "skillCatg": 12
+  },
+  {
+    "skillName": "PostgreSQL",
+    "skillDesc": "A free and open-source relational database management system emphasizing extensibility and SQL compliance.",
+    "skillCatg": 12
+  },
+  {
+    "skillName": "Oracle",
+    "skillDesc": "An American multinational computer technology corporation that sells database software and technology, cloud engineered systems, and enterprise software products.",
+    "skillCatg": 12
+  },
+  {
+    "skillName": "IBM DB2",
+    "skillDesc": "A family of data management products, including database servers, developed by IBM.",
+    "skillCatg": 12
+  },
+  {
+    "skillName": "Redis",
+    "skillDesc": "An in-memory data structure store, used as a distributed, in-memory key–value database, cache and message broker.",
+    "skillCatg": 12
+  },
+  {
+    "skillName": "Azure Cosmos DB",
+    "skillDesc": "A fully managed NoSQL database for modern app development.",
+    "skillCatg": 12
+  },
+  {
+    "skillName": "Azure SQL Database",
+    "skillDesc": "A fully managed platform as a service (PaaS) database engine that handles most of the database management functions.",
+    "skillCatg": 12
+  },
+  {
+    "skillName": "SAP HANA",
+    "skillDesc": "An in-memory, column-oriented, relational database management system developed and marketed by SAP SE.",
+    "skillCatg": 12
+  },
+  {
+    "skillName": "SAP ASE (Sybase SQL Server)",
+    "skillDesc": "A relational model database server product for businesses developed by Sybase Corporation.",
+    "skillCatg": 12
+  },
+  {
+    "skillName": "MariaDB",
+    "skillDesc": "A community-developed, commercially supported fork of the MySQL relational database management system.",
+    "skillCatg": 12
+  },
+  {
+    "skillName": "Firebase",
+    "skillDesc": "A platform developed by Google for creating mobile and web applications.",
+    "skillCatg": 12
+  },
+  {
+    "skillName": "Elasticsearch",
+    "skillDesc": "A search engine based on the Lucene library.",
+    "skillCatg": 12
+  },
+  {
+    "skillName": "Apache Cassandra",
+    "skillDesc": "A free and open-source, distributed, wide column store, NoSQL database management system.",
+    "skillCatg": 12
+  },
+  {
+    "skillName": "Selenium",
+    "skillDesc": "A portable framework for testing web applications.",
+    "skillCatg": 4
+  },
+  {
+    "skillName": "SpecFlow Framework",
+    "skillDesc": "A .NET framework used to define, manage, and automatically execute human-readable acceptance tests in .NET projects.",
+    "skillCatg": 4
+  },
+  {
+    "skillName": "NUnit Framework",
+    "skillDesc": "A unit-testing framework for all .Net languages.",
+    "skillCatg": 4
+  },
+  {
+    "skillName": "Extent Reports",
+    "skillDesc": "A reporting library for test automation.",
+    "skillCatg": 4
+  },
+  {
+    "skillName": "AS/400",
+    "skillDesc": "A family of midrange computers from IBM.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "SAP Business One",
+    "skillDesc": "An ERP software platform specifically intended for small and medium-sized businesses.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "API Testing",
+    "skillDesc": "A type of software testing that involves testing application programming interfaces (APIs) directly.",
+    "skillCatg": 4
+  },
+  {
+    "skillName": "Appium",
+    "skillDesc": "An open-source test automation framework for use with native, hybrid and mobile web apps.",
+    "skillCatg": 4
+  },
+  {
+    "skillName": "Android",
+    "skillDesc": "A mobile operating system based on a modified version of the Linux kernel and other open source software.",
+    "skillCatg": 10
+  },
+  {
+    "skillName": "Xamarin",
+    "skillDesc": "An open-source platform for building modern and performant applications for iOS, Android, and Windows with .NET.",
+    "skillCatg": 10
+  },
+  {
+    "skillName": "SQL Server Integration Services (SSIS)",
+    "skillDesc": "A platform for data integration and workflow applications.",
+    "skillCatg": 7
+  },
+  {
+    "skillName": "SQL Server Reporting Services (SSRS)",
+    "skillDesc": "A server-based report generating software system from Microsoft.",
+    "skillCatg": 7
+  },
+  {
+    "skillName": "SQL Server Administration Services (SSAS)",
+    "skillDesc": "An analytical data engine used in decision support and business analytics.",
+    "skillCatg": 7
+  },
+  {
+    "skillName": "Database Administration",
+    "skillDesc": "The function of managing and maintaining database management systems (DBMS) software.",
+    "skillCatg": 12
+  },
+  {
+    "skillName": "Power BI",
+    "skillDesc": "A business analytics service by Microsoft.",
+    "skillCatg": 6
+  },
+  {
+    "skillName": "Sharepoint Developer",
+    "skillDesc": "A developer who specializes in creating and configuring SharePoint websites.",
+    "skillCatg": 1
+  },
+  {
+    "skillName": "Power Apps",
+    "skillDesc": "A suite of apps, services, connectors and data platform that provides a rapid application development environment.",
+    "skillCatg": 13
+  },
+  {
+    "skillName": "Azure DevOps",
+    "skillDesc": "A set of development tools provided by Microsoft to support software development teams.",
+    "skillCatg": 2
+  },
+  {
+    "skillName": "Azure Logic Apps",
+    "skillDesc": "A cloud service that helps you schedule, automate, and orchestrate tasks, business processes, and workflows.",
+    "skillCatg": 15
+  },
+  {
+    "skillName": "AWS SNS",
+    "skillDesc": "A fully managed messaging service for both application-to-application (A2A) and application-to-person (A2P) communication.",
+    "skillCatg": 9
+  },
+  {
+    "skillName": "AWS SQS",
+    "skillDesc": "A fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications.",
+    "skillCatg": 9
+  },
+  {
+    "skillName": "AWS Lambda Functions",
+    "skillDesc": "A serverless compute service that lets you run code without provisioning or managing servers.",
+    "skillCatg": 9
+  },
+  {
+    "skillName": "Django",
+    "skillDesc": "A high-level Python web framework that encourages rapid development and clean, pragmatic design.",
+    "skillCatg": 1
+  },
+  {
+    "skillName": "PyTest",
+    "skillDesc": "A framework that makes building simple and scalable test cases easy.",
+    "skillCatg": 4
+  },
+  {
+    "skillName": "NumPy",
+    "skillDesc": "A fundamental package for scientific computing with Python.",
+    "skillCatg": 5
+  },
+  {
+    "skillName": "ASP.NET",
+    "skillDesc": "An open-source server-side web application framework designed for web development to produce dynamic web pages.",
+    "skillCatg": 1
+  },
+  {
+    "skillName": "Presales",
+    "skillDesc": "Activities carried out before a customer is acquired.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Linux",
+    "skillDesc": "A family of open-source Unix-like operating systems based on the Linux kernel.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Windows Server",
+    "skillDesc": "A brand name for a group of server operating systems released by Microsoft.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Nginx",
+    "skillDesc": "A web server that can also be used as a reverse proxy, load balancer, mail proxy, and HTTP cache.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Cloudflare",
+    "skillDesc": "A web infrastructure and website security company that provides content delivery network services, DDoS mitigation, Internet security, and distributed domain name server services.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Team Foundation Services (TFS)",
+    "skillDesc": "A Microsoft product that provides source code management, reporting, requirements management, project management, automated builds, lab management, testing, and release management capabilities.",
+    "skillCatg": 2
+  },
+  {
+    "skillName": "Azure DevOps Server",
+    "skillDesc": "A set of collaborative software development tools hosted on-premises.",
+    "skillCatg": 2
+  },
+  {
+    "skillName": "Ubuntu",
+    "skillDesc": "A Linux distribution based on Debian and composed mostly of free and open-source software.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Red Hat",
+    "skillDesc": "A software company that provides open-source software products to the enterprise community.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "openSUSE",
+    "skillDesc": "A Linux distribution sponsored by SUSE Software Solutions Germany GmbH and other companies.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Fedora",
+    "skillDesc": "A Linux distribution developed by the community-supported Fedora Project and sponsored by Red Hat.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Oracle Linux",
+    "skillDesc": "A Linux distribution packaged and freely distributed by Oracle, available partially under the GNU General Public License.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Delivery Management",
+    "skillDesc": "The process of managing the delivery of products or services to customers.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "SD Management",
+    "skillDesc": "Service Delivery Management involves making sure that services are being seamlessly delivered to the clients of an organization.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Quality Assurance",
+    "skillDesc": "A way of preventing mistakes and defects in manufactured products and avoiding problems when delivering solutions or services to customers.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Mobile Application Development",
+    "skillDesc": "The process of creating software applications that run on a mobile device.",
+    "skillCatg": 10
+  },
+  {
+    "skillName": "Automation Testing",
+    "skillDesc": "The process of using automation tools to execute test cases.",
+    "skillCatg": 4
+  },
+  {
+    "skillName": "Business Analyst",
+    "skillDesc": "A person who analyzes and documents the market environment, processes, or systems of businesses.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Project Management",
+    "skillDesc": "The application of processes, methods, skills, knowledge and experience to achieve specific project objectives.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Ruby",
+    "skillDesc": "A dynamic, open source programming language with a focus on simplicity and productivity.",
+    "skillCatg": 10
+  },
+  {
+    "skillName": "Swift",
+    "skillDesc": "A powerful and intuitive programming language for macOS, iOS, watchOS, and tvOS.",
+    "skillCatg": 10
+  },
+  {
+    "skillName": "Kotlin",
+    "skillDesc": "A cross-platform, statically typed, general-purpose programming language with type inference.",
+    "skillCatg": 10
+  },
+  {
+    "skillName": "Perl",
+    "skillDesc": "A family of two high-level, general-purpose, interpreted, dynamic programming languages.",
+    "skillCatg": 10
+  },
+  {
+    "skillName": "GoLang",
+    "skillDesc": "A statically typed, compiled programming language designed at Google.",
+    "skillCatg": 10
+  },
+  {
+    "skillName": "Rust",
+    "skillDesc": "A multi-paradigm, general-purpose programming language designed for performance and safety, especially safe concurrency.",
+    "skillCatg": 10
+  },
+  {
+    "skillName": "jQuery",
+    "skillDesc": "A fast, small, and feature-rich JavaScript library.",
+    "skillCatg": 1
+  },
+  {
+    "skillName": "C#",
+    "skillDesc": "A modern, object-oriented, and type-safe programming language.",
+    "skillCatg": 10
+  },
+  {
+    "skillName": "C++",
+    "skillDesc": "A general-purpose programming language created as an extension of the C programming language.",
+    "skillCatg": 10
+  },
+  {
+    "skillName": "C",
+    "skillDesc": "A general-purpose, procedural computer programming language supporting structured programming.",
+    "skillCatg": 10
+  },
+  {
+    "skillName": "VB",
+    "skillDesc": "A programming language from Microsoft that is designed for building a variety of applications that run on the .NET Framework.",
+    "skillCatg": 10
+  },
+  {
+    "skillName": "VB.NET",
+    "skillDesc": "An object-oriented programming language implemented on the .NET Framework.",
+    "skillCatg": 10
+  },
+  {
+    "skillName": "F#",
+    "skillDesc": "A functional-first programming language for writing simple code to solve complex problems.",
+    "skillCatg": 10
+  },
+  {
+    "skillName": "Vue",
+    "skillDesc": "An open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications.",
+    "skillCatg": 1
+  },
+  {
+    "skillName": "System21",
+    "skillDesc": "An enterprise resource planning (ERP) software suite.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "IFS ERP",
+    "skillDesc": "An enterprise resource planning (ERP) software suite developed by IFS AB.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Workday",
+    "skillDesc": "A cloud-based software vendor that specializes in human capital management and financial management applications.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "SAP S/4HANA",
+    "skillDesc": "An enterprise resource planning (ERP) suite developed by SAP SE.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "SAP ERP",
+    "skillDesc": "An enterprise resource planning software developed by the German company SAP SE.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Oracle Cloud Enterprise Resource Planning",
+    "skillDesc": "A cloud-based ERP suite developed by Oracle Corporation.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Microsoft Dynamics 365",
+    "skillDesc": "A product line of enterprise resource planning and customer relationship management applications.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "SAP Business ByDesign",
+    "skillDesc": "A cloud-based ERP solution for small and medium-sized enterprises.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "Odoo ERP",
+    "skillDesc": "An open-source ERP software that includes a wide range of business applications.",
+    "skillCatg": 11
+  },
+  {
+    "skillName": "AWS S3",
+    "skillDesc": "An object storage service that offers industry-leading scalability, data availability, security, and performance.",
+    "skillCatg": 9
+  },
+  {
+    "skillName": "AWS CloudFormation",
+    "skillDesc": "A service that helps you model and set up your Amazon Web Services resources.",
+    "skillCatg": 9
+  },
+  {
+    "skillName": "AWS CloudWatch Log Groups",
+    "skillDesc": "A service that monitors and logs your AWS resources and applications.",
+    "skillCatg": 9
+  },
+  {
+    "skillName": "AWS CloudWatch Alarms",
+    "skillDesc": "A feature that sends notifications or automatically makes changes to the resources you are monitoring based on rules that you define.",
+    "skillCatg": 9
+  }
+]

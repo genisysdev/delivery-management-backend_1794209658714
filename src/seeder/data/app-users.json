@@ -1,0 +1,86 @@
+[
+    {
+        "email": "saravanan.b@genisys-group.com",
+        "role": "SD",
+        "canManageAccess": true,
+        "isActive": true,
+        "addedBy": "System"
+    },
+    {
+        "email": "abdul.k@genisys-group.com",
+        "role": "PM",
+        "canManageAccess": false,
+        "isActive": true,
+        "addedBy": "System"
+    },
+    {
+        "email": "saravanan.k@genisys-group.com",
+        "role": "PM",
+        "canManageAccess": true,
+        "isActive": true,
+        "addedBy": "System"
+    },
+    {
+        "email": "somesh.k@genisys-group.com",
+        "role": "PM",
+        "canManageAccess": false,
+        "isActive": true,
+        "addedBy": "System"
+    },
+    {
+        "email": "arif.s@genisys-group.com",
+        "role": "PM",
+        "canManageAccess": false,
+        "isActive": true,
+        "addedBy": "System"
+    },
+    {
+        "email": "ranjith.kg@genisys-group.com",
+        "role": "PM",
+        "canManageAccess": false,
+        "isActive": true,
+        "addedBy": "System"
+    },
+    {
+        "email": "raghavendra.dn@genisys-group.com",
+        "role": "PM",
+        "canManageAccess": false,
+        "isActive": true,
+        "addedBy": "System"
+    },
+    {
+        "email": "siju.s@genisys-group.com",
+        "role": "PM",
+        "canManageAccess": true,
+        "isActive": true,
+        "addedBy": "System"
+    },
+    {
+        "email": "jyothi.b@genisys-group.com",
+        "role": "SD",
+        "canManageAccess": true,
+        "isActive": true,
+        "addedBy": "System"
+    },
+    {
+        "email": "shyamprasad.g@genisys-group.com",
+        "role": "PM",
+        "canManageAccess": false,
+        "isActive": true,
+        "addedBy": "System"
+    },
+    {
+        "email": "manojy@genisys-group.com",
+        "role": "PM",
+        "canManageAccess": false,
+        "isActive": true,
+        "addedBy": "System"
+    },
+    {
+        "email": "suryakant.nk@genisys-group.com",
+        "role": "PM",
+        "canManageAccess": false,
+        "isActive": true,
+        "addedBy": "System"
+    }
+]
